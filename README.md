@@ -37,7 +37,7 @@
 ║   [✓] Creativity module.................. ACTIVE             ║
 ║   [✓] Continuous learning................ ENABLED            ║
 ║                                                              ║
-║                   READY TO BUILD_                            ║
+║                    READY TO BUILD_                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -85,8 +85,6 @@ Busco aprender tecnologia principalmente através da prática, desenvolvendo pro
 Atualmente, meus principais projetos são o **FluxMEI**, uma plataforma SaaS voltada à gestão financeira de Microempreendedores Individuais, e o **DripZone**, um e-commerce Full Stack utilizado também como ambiente para aprofundar conhecimentos em backend, segurança, banco de dados e infraestrutura.
 
 Meu objetivo é continuar evoluindo em **desenvolvimento Full Stack, Inteligência Artificial, Cloud Computing, SaaS e Arquitetura de Software**, construindo sistemas cada vez mais organizados, seguros e escaláveis.
-
-<br/>
 
 ```text
 ┌─[ CESAR@DEV ]─[ ~/mindset ]
@@ -145,6 +143,7 @@ Meu objetivo é continuar evoluindo em **desenvolvimento Full Stack, Inteligênc
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">💰 FluxMEI</h3>
@@ -169,7 +168,7 @@ Meu objetivo é continuar evoluindo em **desenvolvimento Full Stack, Inteligênc
 
 Plataforma SaaS criada para ajudar **Microempreendedores Individuais** a gerenciar suas finanças de maneira mais simples e inteligente.
 
-**Principais áreas trabalhadas:**
+**Stack principal**
 
 `JavaScript` • `Node.js` • `Express`
 
@@ -184,11 +183,12 @@ Plataforma SaaS criada para ajudar **Microempreendedores Individuais** a gerenci
 <br/>
 
 ```text
-STATUS
-├── SaaS Architecture
+SYSTEM MODULES
+
 ├── Financial Dashboard
 ├── Authentication
 ├── Payments
+├── REST APIs
 ├── Artificial Intelligence
 └── Production Deployment
 ```
@@ -215,7 +215,7 @@ STATUS
 
 E-commerce Full Stack desenvolvido como ambiente para explorar **arquitetura backend, segurança, persistência de dados e infraestrutura**.
 
-**Principais tecnologias:**
+**Stack principal**
 
 `Python` • `FastAPI`
 
@@ -230,7 +230,8 @@ E-commerce Full Stack desenvolvido como ambiente para explorar **arquitetura bac
 <br/>
 
 ```text
-STATUS
+SYSTEM MODULES
+
 ├── Public Storefront
 ├── Admin Panel
 ├── Authentication
@@ -241,6 +242,7 @@ STATUS
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -286,11 +288,7 @@ cesar@dev:~$ █
 
 <br/><br/>
 
-### 🔥 Contribution Streak
-
-<a href="https://git.io/streak-stats">
-<img width="70%" src="https://streak-stats.demolab.com/?user=cesaraugustosilva&theme=github-dark-blue&hide_border=true"/>
-</a>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cesaraugustosilva&theme=github_dark"/>
 
 </div>
 
@@ -303,20 +301,6 @@ cesar@dev:~$ █
 ### 📡 Contribution Activity
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cesaraugustosilva&bg_color=020617&color=00E5FF&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=C%C3%A9sar%20Augusto%20%7C%20Contribution%20Activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `> ACHIEVEMENTS.unlock()`
-
-### 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=cesaraugustosilva&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"/>
-</a>
 
 </div>
 
